@@ -42,7 +42,7 @@
 		-o-transition: all 0.2s ease-in-out;
 		-ms-transition: all 0.2s ease-in-out;
 		transition: all 0.2s ease-in-out;
-		color: #d6c4be;
+		color: #2ccf3d;
 		text-decoration: none;
 		border-bottom: dotted 1px;
 	}
@@ -203,7 +203,7 @@
 		input[type="password"]:focus,
 		input[type="email"]:focus,
 		textarea:focus {
-			border-color: #856155;
+			border-color: #1B7E25;
 		}
 
 	input[type="text"],
@@ -508,14 +508,16 @@
 		}
 
 		.button.special {
-			background: #856155;
-			border-color: #856155;
+			background: #1B7E25;
+			border-color: #1B7E25;
 			color: white !important;
 		}
 
+/* YOU ARE HERE */
+
 			.button.special:hover {
-				background: #b29186 !important;
-				border-color: #b29186 !important;
+				background: #24a831 !important;
+				border-color: #24a831 !important;
 			}
 
 		.button.fit {
@@ -540,7 +542,7 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #856155;
+			background-color: #1B7E25;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
@@ -555,7 +557,7 @@
 			.wrapper.style2 .button.special {
 				background: white;
 				border-color: white;
-				color: #856155 !important;
+				color: #1B7E25 !important;
 			}
 
 				.wrapper.style2 .button.special:hover {
@@ -735,7 +737,7 @@
 			}
 
 			.dropotron > li:hover > a {
-				background: #856155;
+				background: #1B7E25;
 				color: white;
 			}
 
@@ -774,7 +776,7 @@
 			-o-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: rgba(52, 27, 43, 0.5);
+			background: rgba(55, 55, 47, 0.5);
 			color: white;
 			display: inline-block;
 			opacity: 0;
